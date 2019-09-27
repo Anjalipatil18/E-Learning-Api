@@ -33,7 +33,7 @@ app.get("/post/:name",(req,res)=>{
     // let Data = JSON.parse(data)
     // var id = Data[req.params.id-1];
     // return res.end(JSON.stringify(id))
-})
+}) 
 
 app.listen(4500, () => console.log('server is listening'));
 
