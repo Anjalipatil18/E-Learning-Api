@@ -1,0 +1,90 @@
+[
+  {
+    "courseId": 1,
+    "name": "Learning",
+    "description": "IN this we will learn how to do htlm and css",
+    "hint": "In this we can search in google and get information",
+    "content": "We can learn in this this is a leaarning we can search in google and search we can learn",
+    "exersiceId": 2
+  },
+  {
+    "courseId": 1,
+    "name": "Recursion course",
+    "description": "This is a recursion course",
+    "hint": "recursion is like function inside function calling",
+    "content": "Recursion is a  function  in this function is a between input output relation  ",
+    "exersiceId": 2
+  },
+  {
+    "courseId": 2,
+    "name": "computer Course",
+    "description": "This is computer course. we will learn computer course.",
+    "hint": "In this we can google it that how to use and how to work in this course",
+    "content": "computer course is a  one course",
+    "exersiceId": 3
+  },
+  {
+    "courseId": 3,
+    "name": "Data Science",
+    "description": "IN THIS WILL LEARN Data Science.",
+    "hint": "we can learn from google",
+    "content": "data science is a one course",
+    "exersiceId": 4
+  },
+  {
+    "courseId": 4,
+    "name": "Grammer",
+    "description": "IN THIS WILL LEARN English Grammer.",
+    "hint": "english we can learn from google",
+    "content": "grammer is a like tense, parse of speech",
+    "exersiceId": 5
+  },
+  {
+    "courseId": 5,
+    "name": "MYSQL",
+    "description": "IN THIS WILL LEARN how to create data in database.",
+    "hint": "we can learn from google",
+    "content": "mysql is a database this is platform of store the data",
+    "exersiceId": 6
+  },
+  {
+    "courseId": 6,
+    "name": "requests Api",
+    "description": "This is computer course. we will learn computer course.",
+    "hint": "We can learn from google search",
+    "content": "requests is a one of library this is a we can get our scrap the data in other website",
+    "exersiceId": 7
+  },
+  {
+    "courseId": 7,
+    "name": "HTML",
+    "description": "IN THIS WILL LEARN HTML",
+    "hint": "html is we can easily learn from google",
+    "content": "html is a create a web page ",
+    "exersiceId": 8
+  },
+  {
+    "courseId": 9,
+    "name": "AI",
+    "description": "WE will learn machine learning.",
+    "hint": "we can easily learn from google",
+    "content": " this is a one interface",
+    "exersiceId": 9
+  },
+  {
+    "courseId": 4,
+    "name": "Preposition",
+    "description": "IN THIS WILL LEARN English Grammer in preposition.",
+    "hint": "english we can learn from google",
+    "content": "grammer is a like preposition like an, an, the",
+    "exersiceId": 10
+  },
+  {
+    "courseId": 4,
+    "name": "Tense",
+    "description": "IN THIS WILL LEARN English Grammer in Tense.",
+    "hint": "english we can learn from google",
+    "content": "grammer in  tense like present tense, past tense, future tense ",
+    "exersiceId": 11
+  }
+]
