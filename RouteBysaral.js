@@ -4,6 +4,7 @@ const fs = require('fs')
 var bodyParser = require('body-parser');
 app.use(bodyParser.json())
 
+//post data 
 app.post('/post',(req,res)=>{
     var id = req.params.id-1;
     var New={
