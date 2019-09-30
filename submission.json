@@ -1,0 +1,79 @@
+[
+  {
+    "codeUrl": "anjalip18@navgurukul.org",
+    "userName": "Anjali Patil",
+    "submissionId": 1,
+    "courseId": 1,
+    "exerciseId": 1
+  },
+  {
+    "codeUrl": "anjalis18@navgurukul.org",
+    "userName": "Anjali Sen",
+    "submissionId": 2,
+    "courseId": 1,
+    "exerciseId": 2
+  },
+  {
+    "codeUrl": "sapna18@navgurukul.org",
+    "userName": "Sapna  Vishnoi",
+    "submissionId": 3,
+    "courseId": 2,
+    "exerciseId": 3
+  },
+  {
+    "codeUrl": "shivanij18@navgurukul.org",
+    "userName": "Shivani Jaiswal",
+    "submissionId": 4,
+    "courseId": 3,
+    "exerciseId": 3
+  },
+  {
+    "codeUrl": "shivanic18@navgurukul.org",
+    "userName": "Shivani Chouhan",
+    "submissionId": 5,
+    "courseId": 4,
+    "exerciseId": 3
+  },
+  {
+    "codeUrl": "sonamg18@navgurukul.org",
+    "userName": "Sonam Goud",
+    "submissionId": 6,
+    "courseId": 3,
+    "exerciseId": 4
+  },
+  {
+    "codeUrl": "bulbul18@navgurukul.org",
+    "userName": "Bulbul Bagban",
+    "submissionId": 7,
+    "courseId": 5,
+    "exerciseId": 5
+  },
+  {
+    "codeUrl": "sonamk18@navgurukul.org",
+    "userName": "Sonam Kumawat",
+    "submissionId": 8,
+    "courseId": 5,
+    "exerciseId": 6
+  },
+  {
+    "codeUrl": "rahul18@navgurukul.org",
+    "userName": "Rahul Joshi",
+    "submissionId": 9,
+    "courseId": 7,
+    "exerciseId": 7
+  },
+  {
+    "codeUrl": "Shivanij18@navgurukul.org",
+    "userName": "Shvani Joshi",
+    "submissionId": 10,
+    "courseId": 8,
+    "exerciseId": 8
+  },
+  {
+    "codeUrl": "pavan18@navgurukul.org",
+    "userName": "Pavan Vishvakarma",
+    "submissionId": 11,
+    "courseId": 9,
+    "exerciseId": 9
+  }
+]
